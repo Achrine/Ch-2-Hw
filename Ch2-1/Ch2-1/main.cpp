@@ -7,9 +7,10 @@
 //
 
 #include <iostream>
+using namespace std;
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+int main(){
+    int a = 62, b = 99;
+    int total = a + b;
+    cout << total << endl; 
 }
