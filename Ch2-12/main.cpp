@@ -23,7 +23,8 @@ using namespace std;
 
 int main(){
     //variable definition statements
-    
+    int acre = 43560, land = 389767; //acre = 43560 sqr feet 
+	double acre_land = land / acre; 
     //input
     //Variable Assignment statement
     
@@ -31,7 +32,7 @@ int main(){
     //Variable Assignment Statement using an expression
     
     //output to screen
-    cout << "blah" << endl;
+    cout << "There are " << acre << " acres" << endl;
     
     //The next line of code reads: Return Zero
     return 0;

@@ -23,7 +23,11 @@ using namespace std;
 
 int main(){
     //variable definition statements
-    
+	int tank = 20;
+    double town_MPG = 21.5, high_MPG = 26.8; //town miles per gallon, and highway
+           trav_town = town_MPG * tank, trav_high = high_MPG * tank; //traviling in town and in highway
+	
+	
     //input
     //Variable Assignment statement
     
@@ -31,7 +35,8 @@ int main(){
     //Variable Assignment Statement using an expression
     
     //output to screen
-    cout << "blah" << endl;
+    cout << "The car travels " << trav_high << "on the highway." << endl;
+	cout << "The car travels " << trav_town << "in the the town." << endl;
     
     //The next line of code reads: Return Zero
     return 0;

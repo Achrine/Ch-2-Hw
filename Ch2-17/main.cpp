@@ -23,7 +23,9 @@ using namespace std;
 
 int main(){
     //variable definition statements
-    
+    double shares_cost = 21.77, per = 0.02,
+		   commission = shares_cost * per,
+		   total = shares_cost + commission;
     //input
     //Variable Assignment statement
     
@@ -31,7 +33,9 @@ int main(){
     //Variable Assignment Statement using an expression
     
     //output to screen
-    cout << "blah" << endl;
+    cout << "Amount paid for the stock alone: " << shares_cost << endl;
+	cout << "Ammount for commission: " << commission << endl;
+	cout << "Total amount paid: " << total << endl;
     
     //The next line of code reads: Return Zero
     return 0;

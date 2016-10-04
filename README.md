@@ -15,3 +15,10 @@ To format with cout object,
 setw appears to be a method or function, taking an argument. 
 
 < cout << setw(6) << num << setw(6);
+
+
+
+
+For formatting floats(?):
+we use the object/function/method setprecision(#) 
+Where # is, we define how precise the output is.

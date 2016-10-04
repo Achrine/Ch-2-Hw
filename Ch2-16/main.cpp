@@ -31,7 +31,13 @@ int main(){
     //Variable Assignment Statement using an expression
     
     //output to screen
-    cout << "blah" << endl;
+    cout << "   *\n"
+		<< "  ***\n"
+		<< " *****\n"
+		<< "********\n"
+		<< " *****\n"
+		<< "  ***\n"
+		<< "    *\n";
     
     //The next line of code reads: Return Zero
     return 0;
