@@ -31,7 +31,11 @@ int main(){
     //Variable Assignment Statement using an expression
     
     //output to screen
-    cout << "blah" << endl;
+    cout << "the size of char is: " << sizeof(char) << endl;
+	cout << "the size of int is: " << sizeof(int) << endl;
+	cout << "the size of float is: " << sizeof(float) << endl;
+	cout << "the size of double is: " << sizeof(double) << endl;
+	
     
     //The next line of code reads: Return Zero
     return 0;

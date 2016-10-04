@@ -23,7 +23,8 @@ using namespace std;
 
 int main(){
     //variable definition statements
-    
+    int gal = 12, miles = 350;
+	double MPG = miles / gal;
     //input
     //Variable Assignment statement
     
@@ -31,7 +32,7 @@ int main(){
     //Variable Assignment Statement using an expression
     
     //output to screen
-    cout << "blah" << endl;
+    cout << "The car gets " << MPG << "miles per gallon." << endl;
     
     //The next line of code reads: Return Zero
     return 0;
