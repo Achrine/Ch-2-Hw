@@ -1,0 +1,8 @@
+﻿  main.cpp
+..\..\..\..\..\Desktop\Ch-2-Hw\Ch2-14\main.cpp(30): warning C4305: 'initializing': truncation from '__int64' to 'int'
+..\..\..\..\..\Desktop\Ch-2-Hw\Ch2-14\main.cpp(30): warning C4309: 'initializing': truncation of constant value
+  Generating code
+  Finished generating code
+  All 79 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Ch2-14.vcxproj -> c:\users\mai\documents\visual studio 2015\Projects\Ch2-14\Release\Ch2-14.exe
+  Ch2-14.vcxproj -> c:\users\mai\documents\visual studio 2015\Projects\Ch2-14\Release\Ch2-14.pdb (Full PDB)
