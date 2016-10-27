@@ -1,0 +1,7 @@
+﻿  main.cpp
+main.cpp(23): warning C4305: '=': truncation from 'double' to 'float'
+  Generating code
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Ch-2-1-Ex.vcxproj -> c:\users\mvc\documents\visual studio 2015\Projects\Ch-2-1-Ex\Release\Ch-2-1-Ex.exe
+  Ch-2-1-Ex.vcxproj -> c:\users\mvc\documents\visual studio 2015\Projects\Ch-2-1-Ex\Release\Ch-2-1-Ex.pdb (Full PDB)
